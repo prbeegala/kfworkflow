@@ -7,7 +7,7 @@
                 "kind": "http",
                 "inputs": {
                     "statusCode": 200,
-                    "body": "Hello world 12345"
+                    "body": "Hello world 123459876"
                 },
                 "runAfter": {}
             }
